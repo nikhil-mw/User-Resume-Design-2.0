@@ -122,21 +122,28 @@ body{
         align-items: center;
         text-align: center;
         margin-left: 5rem;
+        gap: 5px;
     }
     .menu img{
         width: 160px;
         height: 160px;
-        margin-right: 14rem;
-        
+        margin: 0 14rem 1.2rem ;
     }
 
     .name-info h2{
         font-size: 38px;
         font-weight: 400;
+        /* border: 1px solid black; */
+        width: 100vw;
+        margin-left: 7rem;
     }
     .name-info h3{
-        font-size: 26px;
+        font-size: 29px;
         font-weight: 320;
+        /* border: 1px solid black; */
+        width: 100vw;
+        margin-left: 7rem;
+
     }
 
     .card-section{
